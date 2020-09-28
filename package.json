@@ -1,7 +1,7 @@
 {
   "name": "lzw_20200928",
   "version": "1.0.1",
-  "description": "测试npm包hh",
+  "description": "测试npm包",
   "main": "dist/lzw_utils.js",
   "keywords": [
     "first",
