@@ -1,0 +1,19 @@
+{
+  "name": "lzw_20200928",
+  "version": "1.0.1",
+  "description": "测试npm包hh",
+  "main": "dist/lzw_utils.js",
+  "keywords": [
+    "first",
+    "call"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "lzw",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
